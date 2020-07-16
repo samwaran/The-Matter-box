@@ -1,0 +1,16 @@
+{
+  "name": "matter-box",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "author": "Samwaran Banerjee",
+  "license": "ISC",
+  "dev-dependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
